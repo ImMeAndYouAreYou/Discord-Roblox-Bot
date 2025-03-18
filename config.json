@@ -30,9 +30,9 @@
     },
      "lavalink": {
         "lavalink": {
-        "identifier": "GlaceYT",
-        "password": "glaceyt",
-        "host": "193.226.78.187",
+        "identifier": "",
+        "password": "",
+        "host": "",
         "port":  9372,
         "secure": false
       }
